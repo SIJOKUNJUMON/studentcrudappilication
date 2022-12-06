@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "sijo",
+      "email": "jerinkunjumon454@gmail.com",
+      "mobile": 5446555,
+      "city": "kollam"
+    },
+    {
+      "id": 2,
+      "name": "jerry",
+      "email": "sijo@gmail.com",
+      "mobile": 9495958786,
+      "city": "kottarakara"
+    },
+    {
+      "id": 3,
+      "name": "ram",
+      "email": "ram134@gmail.com",
+      "mobile": 8956895656,
+      "city": "kakkanad"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
